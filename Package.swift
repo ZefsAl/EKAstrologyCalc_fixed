@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "EKAstrologyCalc",
     platforms: [
-        .iOS(.v11),
+        .iOS(.v13),
         .macOS(.v12),
         .tvOS(.v11),
         .watchOS(.v5),
